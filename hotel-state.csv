@@ -1,0 +1,13 @@
+roomNumber,description,pricePerNight,capacity,occupied,guests,checkinDate,plannedCheckoutDate,additionalInfo
+101,Single Economy,99.0,1,false,,,,
+102,Single Standard,119.0,1,false,,,,
+103,Single Deluxe,139.0,1,false,,,,
+201,Double Economy,149.0,2,true,Adam;Carl,2025-11-21,2025-11-24,Business trip
+202,Double Standard,179.0,2,false,,,,
+203,Double Deluxe,209.0,2,false,,,,
+301,Triple Family,249.0,3,false,,,,
+302,Quad Family,299.0,4,false,,,,
+401,Junior Suite,329.0,2,false,,,,
+402,Executive Suite,429.0,3,false,,,,
+501,Penthouse Suite,599.0,4,false,,,,
+601,Dormitory Bunk,59.0,6,false,,,,

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"hotel"},{"l":"hotel.commands"},{"l":"hotel.factory"},{"l":"hotel.io"},{"l":"hotel.model"},{"l":"hotel.utils.map"}];updateSearchResults();
