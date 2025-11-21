@@ -1,7 +1,7 @@
 # Hotel Management CLI
 
 Hotel management CLI built with Java.
-Built as the first assignment for a Java uni course.
+Built as the introductory assignment for a Java uni course.
 
 [Prompt](PROMPT.md) — All specifications gathered in one place. May be useful for future students 🧐.
 
@@ -37,14 +37,14 @@ mvn clean package
 
 ### Run
 ```bash
-# Default configuration
+# Default configuration (will search for hotel-state.csv in root, otherwise use hardcoded rooms)
 java -jar hotel-main/target/hotel-main-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 # With custom CSV file
-java -jar hotel-main/target/hotel-main-1.0-SNAPSHOT-jar-with-dependencies.jar data/hotel.csv
+java -jar hotel-main/target/hotel-main-1.0-SNAPSHOT-jar-with-dependencies.jar <path-to-file.csv>
 
 # Using environment variable
-export HOTEL_CONFIG=path/to/config.csv
+export HOTEL_CONFIG=<path-to-file.csv>
 java -jar hotel-main/target/hotel-main-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
