@@ -1,6 +1,9 @@
 # Hotel Management CLI
 
 Hotel management CLI built with Java.
+Built as the first assignment for a Java uni course.
+
+[Prompt](PROMPT.md) — All specifications gathered in one place. May be useful for future students 🧐.
 
 ### Demonstrating:
 - OOP principles
@@ -12,8 +15,6 @@ Hotel management CLI built with Java.
 - SonarQube analytics possibilities
 - Own data structure implementation
 - Usage of Apache Commons CSV
-
-[Prompt](PROMPT.md) — All specifications gathered in one place.
 
 ### Features:
 
